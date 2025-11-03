@@ -1,0 +1,23 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Credentials & secrets
+.env
+service_account.json
+*.key
+*.pem
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
